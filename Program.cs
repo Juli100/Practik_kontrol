@@ -48,7 +48,3 @@ string[] newStringArray = SecondStringArray(stringArray,sizeNewArray);
 WriteLine(" -> ");
 PrintStringArray(newStringArray);
 WriteLine();
-
-
-
-
